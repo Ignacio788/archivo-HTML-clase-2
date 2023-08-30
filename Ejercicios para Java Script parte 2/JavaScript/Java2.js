@@ -22,7 +22,7 @@ document.write(frase);
 	// SUPER IMPORTANTE ´ ´ ´ ´ ´ ´ ´ ´
 	('´ ´ '); // NO ES LO MISMO QUE COMILLAS SIMPLES.
 }
-// CIREL
+// CIREL estuvo aqui holaaaaaaaaaa
 //OPERADORES DE Comparacion
 {
 	//COMPARAN 2 OPERACIONES Y DEVUELVEN UN VALOR BOOLEAN QUE REPRESENTA
