@@ -6,6 +6,7 @@ frase = Saludo + pregunta;
 // frase = saludo + pregunta
 //ESTO PERMITE ESCRIBIR POR TEXTO Y HACER QUE SE VEA EN LA PAGINA.
 //AMO EL PANNNNNNNN
+//GOLAAAAAAAAAAAAZOOOOOOOOOOOOOOO
 
 document.write(frase);
 //para usar el (concat, que es la concatenacion)
